@@ -1,0 +1,4 @@
+/data filter=lfs diff=lfs merge=lfs -text
+C:/Users/user/Desktop/DL/DL/DeepLearning/data.psd filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+~/Desktop/DL/DL/DeepLearning/Legathy/DeepLearning/DeepLearningData/data-01.csv filter=lfs diff=lfs merge=lfs -text
